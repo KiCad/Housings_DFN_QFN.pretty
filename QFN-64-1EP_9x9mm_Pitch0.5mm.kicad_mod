@@ -2,10 +2,10 @@
   (descr "64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "QFN 0.5")
   (attr smd)
-  (fp_text reference QFN-64-1EP_9x9mm_Pitch0.5mm (at 0 -5.875) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.875) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.875) (layer F.SilkS)
+  (fp_text value QFN-64-1EP_9x9mm_Pitch0.5mm (at 0 5.875) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.15 -5.15) (end -5.15 5.15) (layer F.CrtYd) (width 0.05))
@@ -115,7 +115,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 65 smd rect (at -2.75625 -2.75625) (size 1.8375 1.8375) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/QFN-64-1EP_9x9mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

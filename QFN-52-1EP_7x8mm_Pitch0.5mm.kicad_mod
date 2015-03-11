@@ -2,10 +2,10 @@
   (descr "UKG Package; 52-Lead Plastic QFN (7mm x 8mm); (see Linear Technology QFN_52_05-08-1729.pdf)")
   (tags "QFN 0.5")
   (attr smd)
-  (fp_text reference QFN-52-1EP_7x8mm_Pitch0.5mm (at 0 -5.25) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.25) (layer F.SilkS)
+  (fp_text value QFN-52-1EP_7x8mm_Pitch0.5mm (at 0 5.25) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4 -4.5) (end -4 4.5) (layer F.CrtYd) (width 0.05))
@@ -103,7 +103,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 53 smd rect (at -2.02875 -2.41875) (size 1.3525 1.6125) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/QFN-52-1EP_7x8mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/QFN-52-1EP_7x8mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

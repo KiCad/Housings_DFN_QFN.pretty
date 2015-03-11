@@ -2,10 +2,10 @@
   (descr "DD Package; 12-Lead Plastic DFN (3mm x 3mm) (see Linear Technology DFN_12_05-08-1725.pdf)")
   (tags "DFN 0.45")
   (attr smd)
-  (fp_text reference DFN-12-1EP_3x3mm_Pitch0.45mm (at 0 -2.55) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.55) (layer F.SilkS)
+  (fp_text value DFN-12-1EP_3x3mm_Pitch0.45mm (at 0 2.55) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2 -1.8) (end -2 1.8) (layer F.CrtYd) (width 0.05))
@@ -34,7 +34,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 13 smd rect (at -0.415 -0.595) (size 0.83 1.19) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/DFN-12-1EP_3x3mm_Pitch0.45mm.wrl
+  (model Housings_DFN_QFN.3dshapes/DFN-12-1EP_3x3mm_Pitch0.45mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -2,10 +2,10 @@
   (descr "DFN20, 6x5, 0.5P; CASE 505AB (see ON Semiconductor 505AB.PDF)")
   (tags "DFN 0.5")
   (attr smd)
-  (fp_text reference DFN-20-1EP_5x6mm_Pitch0.5mm (at 0 -4.075) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -4.075) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 4.075) (layer F.SilkS)
+  (fp_text value DFN-20-1EP_5x6mm_Pitch0.5mm (at 0 4.075) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.9 -3.35) (end -2.9 3.35) (layer F.CrtYd) (width 0.05))
@@ -50,7 +50,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 21 smd rect (at -0.81 -1.59) (size 1.62 1.06) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/DFN-20-1EP_5x6mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/DFN-20-1EP_5x6mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

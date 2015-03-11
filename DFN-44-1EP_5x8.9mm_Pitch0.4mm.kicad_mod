@@ -2,10 +2,10 @@
   (descr "DFN44 8.9x5, 0.4P; CASE 506BU-01 (see ON Semiconductor 506BU.PDF)")
   (tags "DFN 0.4")
   (attr smd)
-  (fp_text reference DFN-44-1EP_5x8.9mm_Pitch0.4mm (at 0 -5.525) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.525) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.525) (layer F.SilkS)
+  (fp_text value DFN-44-1EP_5x8.9mm_Pitch0.4mm (at 0 5.525) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.9 -4.8) (end -2.9 4.8) (layer F.CrtYd) (width 0.05))
@@ -90,7 +90,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 45 smd rect (at -1.3875 -3.15) (size 0.925 2.1) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/DFN-44-1EP_5x8.9mm_Pitch0.4mm.wrl
+  (model Housings_DFN_QFN.3dshapes/DFN-44-1EP_5x8.9mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

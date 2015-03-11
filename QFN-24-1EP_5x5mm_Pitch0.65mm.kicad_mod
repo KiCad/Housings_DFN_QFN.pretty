@@ -2,10 +2,10 @@
   (descr "UH Package; 24-Lead Plastic QFN (5mm x 5mm); (see Linear Technology (UH24) QFN 05-08-1747 Rev A.pdf)")
   (tags "QFN 0.65")
   (attr smd)
-  (fp_text reference QFN-24-1EP_5x5mm_Pitch0.65mm (at 0 -3.7) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.7) (layer F.SilkS)
+  (fp_text value QFN-24-1EP_5x5mm_Pitch0.65mm (at 0 3.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.95 -2.95) (end -2.95 2.95) (layer F.CrtYd) (width 0.05))
@@ -51,7 +51,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 25 smd rect (at -0.8 -0.8) (size 1.6 1.6) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/QFN-24-1EP_5x5mm_Pitch0.65mm.wrl
+  (model Housings_DFN_QFN.3dshapes/QFN-24-1EP_5x5mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

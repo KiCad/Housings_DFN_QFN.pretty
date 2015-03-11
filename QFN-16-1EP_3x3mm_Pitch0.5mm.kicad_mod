@@ -2,10 +2,10 @@
   (descr "16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "QFN 0.5")
   (attr smd)
-  (fp_text reference QFN-16-1EP_3x3mm_Pitch0.5mm (at 0 -2.85) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.85) (layer F.SilkS)
+  (fp_text value QFN-16-1EP_3x3mm_Pitch0.5mm (at 0 2.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.1 -2.1) (end -2.1 2.1) (layer F.CrtYd) (width 0.05))
@@ -43,7 +43,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 17 smd rect (at -0.45 -0.45) (size 0.9 0.9) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

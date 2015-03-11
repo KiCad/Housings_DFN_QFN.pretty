@@ -2,10 +2,10 @@
   (descr "8-Lead Plastic Dual Flat, No Lead Package (MC) - 2x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "DFN 0.5")
   (attr smd)
-  (fp_text reference DFN-8-1EP_3x2mm_Pitch0.5mm (at 0 -2.05) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 2.05) (layer F.SilkS)
+  (fp_text value DFN-8-1EP_3x2mm_Pitch0.5mm (at 0 2.05) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.1 -1.3) (end -2.1 1.3) (layer F.CrtYd) (width 0.05))
@@ -30,7 +30,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 9 smd rect (at -0.4375 -0.3625) (size 0.875 0.725) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN/DFN-8-1EP_3x2mm_Pitch0.5mm.wrl
+  (model Housings_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
