@@ -1,6 +1,7 @@
-(module LGA-24_3x5mm_Pitch0.5mm (layer F.Cu) (tedit 570BA7D6)
+(module LGA-24_3x5mm_Pitch0.5mm (layer F.Cu) (tedit 570BA8DF)
   (descr "LGA-24, 3x5, p=0.5")
   (tags "LGA 0.5")
+  (attr smd)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

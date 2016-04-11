@@ -1,6 +1,7 @@
-(module LGA-16_4x4mm_Pitch0.65mm (layer F.Cu) (tedit 570BA7D6)
+(module LGA-16_4x4mm_Pitch0.65mm (layer F.Cu) (tedit 570BA8DF)
   (descr "LGA-16, 4x4, p=0.65")
   (tags "LGA 0.65")
+  (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
