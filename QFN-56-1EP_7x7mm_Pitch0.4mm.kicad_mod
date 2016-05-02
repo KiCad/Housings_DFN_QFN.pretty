@@ -1,11 +1,11 @@
-(module QFN-56-1EP_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 5713B69C)
+(module QFN-56-1EP_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 5726AAF0)
   (descr "56-Lead Plastic Ultra Thin Quad Flat, No Lead Package (MV) - 7x7x0.4 mm Body [UQFN]; (see Cypress Package Package Output Drawing 001-58740)")
   (tags "QFN 0.4")
   (attr smd)
   (fp_text reference REF** (at 0.3 -4.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value QFN-56-1EP_7x7mm_Pitch0.4mm (at 0 5.5) (layer F.Fab) hide
+  (fp_text value QFN-56-1EP_7x7mm_Pitch0.4mm (at 0 5.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.15 -4.15) (end -4.15 4.15) (layer F.CrtYd) (width 0.05))
