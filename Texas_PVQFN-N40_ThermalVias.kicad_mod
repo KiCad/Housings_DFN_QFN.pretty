@@ -124,7 +124,7 @@
   (pad 41 thru_hole circle (at -1 -1) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 41 thru_hole circle (at 1 -1) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 41 thru_hole circle (at 0 -1) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
-  (model Housings_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
