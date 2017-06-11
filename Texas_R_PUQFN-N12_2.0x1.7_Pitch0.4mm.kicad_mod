@@ -34,7 +34,7 @@
   (pad 10 smd rect (at -0.4 -0.65) (size 0.2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at -0.8 -0.65) (size 0.2 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at -0.8 0) (size 0.6 0.2) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Texas_R_PUQFN-N12_2.0x1.7_Pitch0.4mm
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Texas_R_PUQFN-N12_2.0x1.7_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
