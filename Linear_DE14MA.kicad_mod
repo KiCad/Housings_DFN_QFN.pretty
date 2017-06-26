@@ -1,4 +1,4 @@
-(module Linear_DE14MA (layer F.Cu) (tedit 5931B638)
+(module Linear_DE14MA (layer F.Cu) (tedit 595120A4)
   (descr "DE Package; 14-Lead Plastic DFN (4mm x 3mm) with special pads (see http://cds.linear.com/docs/en/datasheet/3032ff.pdf)")
   (tags "DFN 0.5")
   (attr smd)

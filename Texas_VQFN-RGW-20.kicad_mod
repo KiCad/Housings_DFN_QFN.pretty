@@ -1,4 +1,4 @@
-(module Texas_VQFN-RGW-20 (layer F.Cu) (tedit 5925769A)
+(module Texas_VQFN-RGW-20 (layer F.Cu) (tedit 595120A5)
   (descr http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF122&fileType=pdf)
   (tags "QFN 0.65 VQFN")
   (attr smd)
