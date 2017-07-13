@@ -1,4 +1,5 @@
 (module UDFN-10_1.35x2.6mm_Pitch0.5mm (layer F.Cu) (tedit 59651142)
+  (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/11/8a/ed/40/31/40/56/DM00088292.pdf/files/DM00088292.pdf/jcr:content/translations/en.DM00088292.pdf)
   (tags "UDFN 0.5 uQFN")
   (attr smd)
   (fp_text reference REF** (at 0 -2.17) (layer F.SilkS)
