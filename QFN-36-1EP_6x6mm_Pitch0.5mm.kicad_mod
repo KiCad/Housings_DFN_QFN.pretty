@@ -64,7 +64,7 @@
   (pad 36 smd rect (at -2 -2.775 90) (size 0.9 0.28) (layers F.Cu F.Paste F.Mask))
   (pad 37 smd rect (at 0 0) (size 3.7 3.7) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.1))
-  (model Housings_DFN_QFN.3dshapes/QFN-36-1EP_6x6mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-36-1EP_6x6mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

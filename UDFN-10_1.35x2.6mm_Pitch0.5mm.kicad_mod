@@ -32,7 +32,7 @@
   (pad 8 smd oval (at 0.525 0) (size 0.7 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd oval (at 0.525 -0.5) (size 0.7 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd oval (at 0.525 -1) (size 0.7 0.2) (layers F.Cu F.Paste F.Mask))
-  (model Housings_DFN_QFN.3dshapes/UDFN-10_1.35x2.6mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/UDFN-10_1.35x2.6mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
