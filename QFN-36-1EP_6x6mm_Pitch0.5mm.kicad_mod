@@ -1,5 +1,5 @@
 (module QFN-36-1EP_6x6mm_Pitch0.5mm (layer F.Cu) (tedit 589C398D)
-  (descr "http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BN%20.pdf p509")
+  (descr "http://ww1.microchip.com/downloads/en/DeviceDoc/36L_QFN_6x6_with_3_7x3_7_EP_Punch_Dimpled_4E_C04-0241A.pdf")
   (tags "QFN-0.5 36SQFN-3706-6x6B")
   (attr smd)
   (fp_text reference REF** (at 0 -4.25) (layer F.SilkS)
