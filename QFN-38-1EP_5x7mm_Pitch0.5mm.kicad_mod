@@ -78,7 +78,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 39 smd rect (at -0.7875 -1.93125) (size 1.575 1.2875) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_DFN_QFN.3dshapes/QFN-38-1EP_5x7mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-38-1EP_5x7mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
