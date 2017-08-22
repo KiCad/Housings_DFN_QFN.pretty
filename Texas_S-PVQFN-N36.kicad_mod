@@ -1,5 +1,5 @@
 (module Texas_S-PVQFN-N36 (layer F.Cu) (tedit 599C8638)
-  (descr http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf)
+  (descr "36 pin S-PVQFN Texas http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf")
   (tags "QFN-0.5 36 QFN 6x6 PVQFN Texas")
   (attr smd)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
