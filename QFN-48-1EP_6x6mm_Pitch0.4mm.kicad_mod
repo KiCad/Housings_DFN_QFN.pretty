@@ -1,5 +1,5 @@
 (module QFN-48-1EP_6x6mm_Pitch0.4mm (layer F.Cu) (tedit 59D505F0)
-  (descr "48-Lead Plastic QFN, 6x6mm, 0.4mm pitch (see https://www.onsemi.com/pub/Collateral/485BA.PDF)")
+  (descr "48-Lead Plastic QFN, 6x6mm, 0.4mm pitch (https://www.onsemi.com/pub/Collateral/485BA.PDF)")
   (tags "QFN 0.4")
   (attr smd)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
