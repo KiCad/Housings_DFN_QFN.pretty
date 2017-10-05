@@ -1,11 +1,11 @@
-(module Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 59D545A3)
+(module Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm_Pad5.15x5.15mm (layer F.Cu) (tedit 59D545A3)
   (descr "MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)")
   (tags "mlpq 32 7x7mm")
   (attr smd)
   (fp_text reference REF** (at 0 -4.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm (at 0 4.7) (layer F.Fab)
+  (fp_text value Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm_Pad5.15x5.15mm (at 0 4.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.5 -3.5) (end 3.5 3.5) (layer F.Fab) (width 0.1))
@@ -144,7 +144,7 @@
   (pad "" smd rect (at -2.1863 -2.1863 45) (size 0.479 0.479) (layers F.Paste))
   (pad 49 smd rect (at 0.184 -2.391) (size 4.782 0.368) (layers F.Cu F.Mask))
   (pad 49 smd rect (at -2.207 -2.207 45) (size 0.52 0.52) (layers F.Cu F.Mask))
-  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm_Pad5.15x5.15mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
